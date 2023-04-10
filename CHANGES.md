@@ -5,6 +5,7 @@ Release Notes.
 8.16.0
 ------------------
 
+* support spring-amqp with rabbit
 
 #### Documentation
 
